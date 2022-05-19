@@ -1,0 +1,74 @@
+{
+
+    "course_detail": {
+
+        "courses": [
+
+            {
+
+                "title": "UI/UX Design Pattern For Succesfull Software Applications",
+
+                "describe": "A complete design education for product designers: Research the user experience, then design a great user interface",
+
+                "course_overview": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone. In this sequence of four courses, you will summarize and demonstrate all stages of the UI/UX development process, from user research to defining a project’s strategy, scope, and information architecture, to developing sitemaps and wireframes. You’ll learn current best practices and conventions in UX design and apply them to create effective and compelling screen-based experiences for websites or apps. User interface and user experience design is a high-demand field, but the skills and knowledge you will learn in this Specialization are applicable to a wide variety of careers, from marketing to web design to human-computer interaction. Learners enrolled in the UI/UX Design Specialization are eligible for an extended free trial (1 month) of a full product suite of UX tools from Optimal Workshop. Details are available in Course 3 of the Specialization, Web Design: Strategy and Information Architecture."
+
+            },
+
+
+            {
+
+                "title": "Advance PHP Knowledge With Laravel To Make Smart Web",
+
+                "describe": "Utilize Object-Oriented PHP and design patterns to make code more scalable and maintainable\nWrite a basic PHP CRUD application",
+
+                "course_overview": "The Advanced PHP training course is designed to demonstrate advanced web development concepts like Object-Oriented (OO) and Model-View-Controller (MVC) in PHP. The course starts with an exploration around creating OO applications using common oriented design patterns like MVC, Facade, and Memento. Next, it examines common PHP web development tasks like interacting with the file system, querying a database, and managing uploaded files. The course concludes with an analysis of how to write a basic PHP Create, Read, Update, Delete (CRUD) application and utilize CakePHP."
+
+            },
+
+
+            {
+
+                "title": "The Complete Accounting & Bank Financial Course 2022",
+
+                "describe": "The Original Course on Accounting & Finance! It's easy once you know the basics. Learn introductory accounting & finance",
+
+                "course_overview": "This course teaches entrepreneurs, startups and small businesses all things business accounting and entrepreneurial finance related, A to Z.  Starting with an introduction to accounting concepts, we move into financial reports and how to create them, understand them and analyze them.  Bookkeepers, Accountants, CFO's and Business Owners alike would all benefit from this course. Next, we learn about budgeting and forecasting.  Next we discuss growing your company, how to understand and analyze it using non conventional reports.  After growing your company, we talk about raising capital and what is involved and avenues you can take.  One section is devoted to the initial public offering process and the timing, costs and best business practices involved. Last, we discuss exit strategies and how to give your investors and yourself a payoff for your hard work. This course is truly a start to finish of accounting and finance.  At over 12 hours long, I wanted to make sure you will feel empowered and educated after taking the course."
+
+            },
+
+
+            {
+
+                "title": "The Complete Business Plan Course Includes 50 Templates",
+
+                "describe": "Everything You Need to Make a Great Business Plan by an Award Winning Business School Prof, VC & Successful Entrepreneur",
+
+                "course_overview": "THIS COMPLETE BUSINESS PLAN COURSE teaches you everything you need to know in order to make an incredible business plans. Also included in this course is a very comprehensive Excel spreadsheet that will help you create your business plan using an easy to use and very comprehensive 13 step methodology. No prior business or finance or accounting or Excel experience is required to take this course.  I have also provided 50 business plan templates and, as an added bonus, 25 business presentations specifically made for startups. You can use the comprehensive Excel exercise document in this course on a Mac or on a PC (I recommend having Excel version 2013 or later in order to complete all of the exercises in this course). This course and the included comprehensive Business Plan Dashboard Excel business plan maker file is a roadmap for your business plan success. All the tools you need to create an amazing business plan from scratch are included in this course and the entire course is based on real life Practical Knowledge & Experience and not based on theory."
+
+            },
+
+
+            {
+
+                "title": "Full Web Designing Course With 20 Web Template Designing",
+
+                "describe": "Between dozens of learning platforms, hundreds of blogs, and YouTube, there’s an endless amount of web design courses and learning materials available online.",
+
+                "course_overview": "In web design, traditional hard qualifications like university degrees don’t carry as much weight as in other industries. It’s a rapidly changing industry, so a 10-year old degree doesn’t mean you’re a great web designer today. Instead, web designers are typically judged by their catalog of recent work showcased through their portfolio site. And it’s not just the previous projects in your portfolio that help highlight your skills. You can convince potential clients you have the necessary design and development skills with the site itself. To get inspired by real portfolio sites using cutting-edge elements of frontend design and development, you can examine previous award-winning projects on Awwwards."
+
+            },
+
+            {
+
+                "title": "Get Started With Machine Learning & Data Science (Python)",
+
+                "describe": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks.",
+
+                "course_overview": "Machine Learning and artificial intelligence (AI) is everywhere; if you want to know how companies like Google, Amazon, and even Udemy extract meaning and insights from massive data sets, this data science course will give you the fundamentals you need. Data Scientists enjoy one of the top-paying jobs, with an average salary of $120,000 according to Glassdoor and Indeed. That's just the average! And it's not just about money - it's interesting work too! If you've got some programming or scripting experience, this course will teach you the techniques used by real data scientists and machine learning practitioners in the tech industry - and prepare you for a move into this hot career path. This comprehensive machine learning tutorial includes over 100 lectures spanning 15 hours of video, and most topics include hands-on Python code examples you can use for reference and for practice. I’ll draw on my 9 years of experience at Amazon and IMDb to guide you through what matters, and what doesn’t. Each concept is introduced in plain English, avoiding confusing mathematical notation and jargon. It’s then demonstrated using Python code you can experiment with and build upon, along with notes you can keep for future reference. You won't find academic, deeply mathematical coverage of these algorithms in this course - the focus is on practical understanding and application of them. At the end, you'll be given a final project to apply what you've learned!."
+
+            }
+        ]
+
+    }
+
+}
